@@ -9,6 +9,8 @@ using namespace  std;
 #include "math.h"
 #include <cassert>
 
+//this is for testing github
+
 //MVector methods
 MVector::MVector(int a,double b):coefs(a,b){this->size=a;this->value=b;}
 
